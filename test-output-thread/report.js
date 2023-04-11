@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"a1c6033a-9cc1-4da2-a9fa-0f3c309bcb9b","feature":"Login to the Rahulshetty Application","scenario":"Verify title of the Login page","start":1681213196413,"group":1,"content":"","tags":"","end":1681213202684,"className":"failed"},{"id":"29d7535a-298d-405d-ac26-bb1a5e925339","feature":"Login to the Rahulshetty Application","scenario":"Verify title of the Home page","start":1681213193234,"group":1,"content":"","tags":"","end":1681213196343,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
